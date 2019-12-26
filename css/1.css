@@ -1,0 +1,31 @@
+@charset "UTF-8";
+my_color {
+  color: #fff; }
+
+/* 变量*/
+div {
+  width: 5%; }
+
+#wz {
+  width: auto;
+  height: 100px; }
+  #wz p {
+    font-size: 15px; }
+  #wz ul {
+    margin: auto; }
+    #wz ul li {
+      font-size: large; }
+
+#div a, p a, h3 a {
+  color: #0b2611; }
+  #div ahovar, p ahovar, h3 ahovar {
+    color: #0b2e13; }
+
+div {
+  color: rgba(241, 118, 194, 0.48);
+  width: 100px;
+  border: 1px solid rgba(241, 118, 194, 0.48);
+  border-top: 2px solid rgba(241, 118, 194, 0.48); }
+
+p:before {
+  content: "全国通缉小黄鸭!"; }

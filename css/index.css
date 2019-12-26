@@ -1,0 +1,20 @@
+.top_height{
+    height:377px;background:#e8e8e8;
+}
+.bottom_height{
+    height:233px;background:#e8e8e8;
+}
+.w-35{width:35%;}
+.my_img1_position{
+    float: right;
+    margin-top:-190px;
+    margin-right:20px;
+    transition:1s;
+}
+.my_img1_position:hover{
+    transform:scale(1.1);
+}
+.xqk{
+	width: 50%;
+	height: 50%;
+}

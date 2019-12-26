@@ -1,0 +1,12 @@
+  <div class="sm4">
+   <img src="素材图片/tp3.png" width="168" height="116">
+    <p>联想E480C 轻薄系列</p><a href="#"><span>&nbsp;&nbsp;加入<br>购物车</span></a>
+    <ul>4699¥</ul><a href="#"><img src="素材图片/ck.png" width="102" height="30"></a> </div>
+            <div class="sm5">
+   <img src="素材图片/tp3.png" width="168" height="116">
+    <p>联想E480C 轻薄系列</p><a href="#"><span>&nbsp;&nbsp;加入<br>购物车</span></a>
+    <ul>4699¥</ul><a href="#"><img src="素材图片/ck.png" width="102" height="30"></a> </div>
+                <div class="sm6">
+    <img src="素材图片/tp3.png" width="168" height="116">
+    <p>联想E480C 轻薄系列</p><a href="#"><span>&nbsp;&nbsp;加入<br>购物车</span></a>
+    <ul>4699¥</ul><a href="#"><img src="素材图片/ck.png" width="102" height="30"></a> </div></div>
